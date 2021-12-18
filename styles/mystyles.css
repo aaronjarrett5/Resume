@@ -1,0 +1,15 @@
+/* These styles are for the site*/
+#copyright {
+    color: #0085A1 !important;
+}
+
+#job {
+    font-size: 25;
+    font-style: normal;
+        
+}
+
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+.notbold {font-weight: normal; font-size: 22px;}
